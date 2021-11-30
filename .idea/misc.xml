@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/hcmut/pom.xml" />
         <option value="$PROJECT_DIR$/hcmut - Copy/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

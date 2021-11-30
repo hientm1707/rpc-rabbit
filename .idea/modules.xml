@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hcmut - Copy/gateway.iml" filepath="$PROJECT_DIR$/hcmut - Copy/gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hcmut/service.iml" filepath="$PROJECT_DIR$/hcmut/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/vertx.iml" filepath="$PROJECT_DIR$/.idea/vertx.iml" />
     </modules>
   </component>
